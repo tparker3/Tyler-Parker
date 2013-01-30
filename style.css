@@ -1,0 +1,64 @@
+
+
+.body {
+  background:#A54B00;
+  top: 0px;
+  
+}
+
+.title{
+text-align:center;
+color: white;
+font-size: 70px;
+font-family:"Century Gothic";
+background:#006363;
+top: 0px;
+
+left:310px;
+
+}
+
+.sub{
+	
+	color: #A54B00;
+	font-family: "Century Gothic";
+	background: #fff;
+ 
+	font-size: 30px;
+  width: 260px;
+  text-align: center;
+}
+
+.column-left {
+	
+	position: absolute;
+	top:170px;
+	margin-left: 0px;
+	margin-top: auto;
+	margin-bottom: auto;
+  background: #6A92D4;
+  font-family: "Century Gothic";
+  color: white;
+	font-size: 25px;
+  text-align: center;
+  width: 260px;
+  
+}
+
+.column-right {
+	position: absolute;
+	width:600px;
+  background: white;
+
+	font-family: "Century Gothic";
+	font-size: 18px;
+	color:black;
+	left: 310px;
+	top:150px;
+  padding-left: 10px;
+
+ 
+
+	
+
+}
