@@ -1,0 +1,27 @@
+body {
+  background: #006363 ;
+}
+
+.title{
+text-align:center;
+color: white;
+font-size: 60px;
+font-family:"Century Gothic";
+background:#006363;
+top: 0px;
+
+left:310px;
+
+}
+
+.sub{
+	postion: absolute;
+	color: #fff;
+	font-family: "Century Gothic";
+	background: #006363;
+ left: 0px;
+
+	font-size: 30px;
+  width: auto;
+  text-align: center;
+}
